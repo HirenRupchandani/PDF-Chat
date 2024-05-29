@@ -17,6 +17,8 @@ Chat with your PDF GenAI project
 
 **Embeddings:** OpenAI
 
+**Large Language Model:** GPT 3.5 Turbo
+
 **Runtime:** Local/Cloud Run  
 
 ## Environment Variables
