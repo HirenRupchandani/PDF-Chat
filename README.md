@@ -3,7 +3,12 @@ A system that allows you to chat with your PDF. It is powered by GPT 3.5 Turbo a
 
 Chat with your PDF GenAI project
 
-![Alt Text]()
+# My Project
+
+Check out this video:
+
+[![YouTube Video](https://img.youtube.com/vi/DeYwNXpG5ic/0.jpg)](https://www.youtube.com/watch?v=DeYwNXpG5ic)
+
 
 
 ## Tech Stack
